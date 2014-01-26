@@ -1,0 +1,17 @@
+<package>
+  <description brief="arduino_publisher">
+
+     arduino_publisher
+
+  </description>
+  <author>penghou</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/arduino_publisher</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+

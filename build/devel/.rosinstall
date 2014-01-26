@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/penghou/Documents/ros/groovy/arduino_publisher/build/devel/setup.sh
